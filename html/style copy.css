@@ -1,8 +1,8 @@
 body{
-    background-image:url(pexels-pixabay-268533.jpg);
+    background-image:url(pexels-pixabay-268533.jpggi);
 }
 h1{
-    color: red;
+    color: rgb(51, 0, 255);
     font-size: 40px;
     background-color: yellow;
     width: fit-content;
